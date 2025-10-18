@@ -36,7 +36,7 @@ You can host this page using GitHub Pages or view it locally by opening the HTML
 
   1.Clone the repository
 
-  git clone https://github.com/<your-username>/basic-calculator.git
+  https://github.com/krishnadas514/basic-calculator
 
 
   2.Navigate to the folder
